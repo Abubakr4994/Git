@@ -67,9 +67,11 @@ ul {
     justify-content: center;
     flex-grow: 1;
     text-transform: capitalize;
+    color: #fff;
 }
 
-
-
+.header__title {
+    font-size: 100px;
+}
 
 /* Header end */
